@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gan on My Tiny Site</title>
+    <link>http://allankevinrichie.github.io/tags/gan/</link>
+    <description>Recent content in Gan on My Tiny Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Ziheng Zhang</copyright>
+    <lastBuildDate>Tue, 18 Jul 2017 00:35:06 +0800</lastBuildDate>
+    <atom:link href="/tags/gan/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AwesomeGAN</title>
+      <link>http://allankevinrichie.github.io/post/awesomegan/</link>
+      <pubDate>Tue, 18 Jul 2017 00:35:06 +0800</pubDate>
+      
+      <guid>http://allankevinrichie.github.io/post/awesomegan/</guid>
+      <description>
+
+&lt;p&gt;This post lists some awesome resource about GAN.&lt;/p&gt;
+
+&lt;h2 id=&#34;article-blog&#34;&gt;Article/Blog&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://blog.waya.ai/introduction-to-gans-a-boxing-match-b-w-neural-nets-b4e5319cc935&#34; target=&#34;_blank&#34;&gt;On the intuition behind deep learning &amp;amp; GANs &amp;ndash; towards a fundamental understanding&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
