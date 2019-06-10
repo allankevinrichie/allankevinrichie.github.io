@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Master Student of Computer Vision">
+  <meta name="description" content="This paper presents a novel Separation-and-UnioN Network (SUNNet) for simultaneous human parsing and pose estimation. Our SUNNet consists of two stages: feature separation and feature union. In feature separation stage, we leverage a common feature extractor to implicitly encode the correlation between human parsing and pose estimation, meanwhile task-specific feature extractors are designed to extract the features for each task. By combining the task-specific features with common features with a feature consolidation module in a coarse-to-fine manner, we can get the initial prediction for parsing and 2D pose estimation; In feature union stage, we refine the initial prediction by explicitly leveraging the features from parallel task to predict the kernels&#39; receptive fields in a convolutional neural network. We further propose a leverage a 3D human body reconstructed from the image to facilitate these tasks. Extensive experiments demonstrate the effectiveness of our SUNNet model for human body configuration analysis.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://my.aiyoggle.xyz/authors/">
+  <link rel="alternate" hreflang="en-us" href="https://my.aiyoggle.xyz/publication/sunnet-bmvc19/">
 
   
 
@@ -103,35 +103,33 @@
   
 
   
-  <link rel="alternate" href="/authors/index.xml" type="application/rss+xml" title="Welcome from Ziheng Zhang!">
-  <link rel="feed" href="/authors/index.xml" type="application/rss+xml" title="Welcome from Ziheng Zhang!">
-  
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://my.aiyoggle.xyz/authors/">
+  <link rel="canonical" href="https://my.aiyoggle.xyz/publication/sunnet-bmvc19/">
 
   
   
   
   
     
-    
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
   <meta property="twitter:site" content="@aiyoggle">
   <meta property="twitter:creator" content="@aiyoggle">
   
   <meta property="og:site_name" content="Welcome from Ziheng Zhang!">
-  <meta property="og:url" content="https://my.aiyoggle.xyz/authors/">
-  <meta property="og:title" content="Authors | Welcome from Ziheng Zhang!">
-  <meta property="og:description" content="Master Student of Computer Vision"><meta property="og:image" content="https://my.aiyoggle.xyz/img/icon-192.png">
+  <meta property="og:url" content="https://my.aiyoggle.xyz/publication/sunnet-bmvc19/">
+  <meta property="og:title" content="SUNNet: A Novel Framework for Simultaneous Human Parsing and Pose Estimation | Welcome from Ziheng Zhang!">
+  <meta property="og:description" content="This paper presents a novel Separation-and-UnioN Network (SUNNet) for simultaneous human parsing and pose estimation. Our SUNNet consists of two stages: feature separation and feature union. In feature separation stage, we leverage a common feature extractor to implicitly encode the correlation between human parsing and pose estimation, meanwhile task-specific feature extractors are designed to extract the features for each task. By combining the task-specific features with common features with a feature consolidation module in a coarse-to-fine manner, we can get the initial prediction for parsing and 2D pose estimation; In feature union stage, we refine the initial prediction by explicitly leveraging the features from parallel task to predict the kernels&#39; receptive fields in a convolutional neural network. We further propose a leverage a 3D human body reconstructed from the image to facilitate these tasks. Extensive experiments demonstrate the effectiveness of our SUNNet model for human body configuration analysis."><meta property="og:image" content="https://my.aiyoggle.xyz/publication/sunnet-bmvc19/featured.jpg">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2019-06-01T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2019-04-01T00:00:00&#43;00:00">
+  
+  <meta property="article:modified_time" content="2019-04-01T00:00:00&#43;00:00">
   
 
   
@@ -143,7 +141,7 @@
 
 
 
-  <title>Authors | Welcome from Ziheng Zhang!</title>
+  <title>SUNNet: A Novel Framework for Simultaneous Human Parsing and Pose Estimation | Welcome from Ziheng Zhang!</title>
 
 </head>
 
@@ -330,71 +328,256 @@
 </nav>
 
 
-  
-
-
-
-
-
-
-
-
-
-
-
+  <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
   
 
+
+
+
+
+
+
+
+
+
+
+
+  
+
   
   
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">SUNNet: A Novel Framework for Simultaneous Human Parsing and Pose Estimation</h1>
+
+  
+
   
     
-  
-<div class="universal-wrapper pt-3">
-  <h1 itemprop="name">Authors</h1>
+
+
+
+<meta content="2019-04-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2019-04-01 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
 
   
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a>Yanyu Xu</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a>Zhixin Piao</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a>Wen Liu</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a>Ziheng Zhang</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a>Jingyi Yu</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a>Shenghua Gao</a></span>&nbsp;
+
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>April 2019</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <a href="/publication/sunnet-bmvc19/#disqus_thread"></a>
+  
+
+  
+  
+
+  
+    
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=SUNNet%3a%20A%20Novel%20Framework%20for%20Simultaneous%20Human%20Parsing%20and%20Pose%20Estimation&amp;url=https%3a%2f%2fmy.aiyoggle.xyz%2fpublication%2fsunnet-bmvc19%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fmy.aiyoggle.xyz%2fpublication%2fsunnet-bmvc19%2f"
+         target="_blank" rel="noopener">
+        <i class="fab fa-facebook-f"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fmy.aiyoggle.xyz%2fpublication%2fsunnet-bmvc19%2f&amp;title=SUNNet%3a%20A%20Novel%20Framework%20for%20Simultaneous%20Human%20Parsing%20and%20Pose%20Estimation"
+         target="_blank" rel="noopener">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fmy.aiyoggle.xyz%2fpublication%2fsunnet-bmvc19%2f&amp;title=SUNNet%3a%20A%20Novel%20Framework%20for%20Simultaneous%20Human%20Parsing%20and%20Pose%20Estimation"
+         target="_blank" rel="noopener">
+        <i class="fab fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=SUNNet%3a%20A%20Novel%20Framework%20for%20Simultaneous%20Human%20Parsing%20and%20Pose%20Estimation&amp;body=https%3a%2f%2fmy.aiyoggle.xyz%2fpublication%2fsunnet-bmvc19%2f">
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   
 </div>
 
 
 
-<div class="universal-wrapper">
-  
+  <div class="article-container">
 
-  <ul>
     
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">This paper presents a novel Separation-and-UnioN Network (SUNNet) for simultaneous human parsing and pose estimation. Our SUNNet consists of two stages: feature separation and feature union. In feature separation stage, we leverage a common feature extractor to implicitly encode the correlation between human parsing and pose estimation, meanwhile task-specific feature extractors are designed to extract the features for each task. By combining the task-specific features with common features with a feature consolidation module in a coarse-to-fine manner, we can get the initial prediction for parsing and 2D pose estimation; In feature union stage, we refine the initial prediction by explicitly leveraging the features from parallel task to predict the kernels&rsquo; receptive fields in a convolutional neural network. We further propose a leverage a 3D human body reconstructed from the image to facilitate these tasks. Extensive experiments demonstrate the effectiveness of our SUNNet model for human body configuration analysis.</p>
     
-      
-      <li><a href="https://my.aiyoggle.xyz/authors/minye-wu/">Minye Wu</a></li>
-    
-      
-      <li><a href="https://my.aiyoggle.xyz/authors/zechao-li/">Zechao Li</a></li>
-    
-      
-      <li><a href="https://my.aiyoggle.xyz/authors/yi-ma/">Yi Ma</a></li>
-    
-      
-      <li><a href="https://my.aiyoggle.xyz/authors/robert-ford/">Robert Ford</a></li>
-    
-      
-      <li><a href="https://my.aiyoggle.xyz/authors/aiyoggle/">Ziheng Zhang</a></li>
-    
-  </ul>
 
-  
-<nav>
-  <ul class="pagination justify-content-center">
     
-    <li class="page-item"><a class="page-link" href="/authors/page/2/">&laquo;</a></li>
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#3">
+              Preprint
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
     
-    
-  </ul>
-</nav>
 
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">Submitted to BMVC19</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
 
+    <div class="space-below"></div>
+
+    <div class="article-style"><!-- <div class="alert alert-note">
+  <div>
+    Click the <em>Slides</em> button above to demo Academic&rsquo;s Markdown slides feature.
+  </div>
 </div>
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). -->
+</div>
+
+    
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/human-parsing/">Human Parsing</a>
+  
+  <a class="badge badge-light" href="/tags/human-pose-estimation/">Human Pose Estimation</a>
+  
+  <a class="badge badge-light" href="/tags/cnn/">CNN</a>
+  
+</div>
+
+
+    
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+  
+  
+  
+  
+  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+    
+
+    <div class="media-body">
+      <h5 class="card-title" itemprop="name"><a href="/authors/yanyu-xu/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+        
+      </ul>
+    </div>
+  </div>
+
+
+
+
+  </div>
+</div>
+
+
 
       
 
