@@ -1,28 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gan on My Tiny Site</title>
-    <link>http://allankevinrichie.github.io/tags/gan/</link>
-    <description>Recent content in Gan on My Tiny Site</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>GAN on Welcome from Ziheng Zhang!</title>
+    <link>https://my.aiyoggle.xyz/tags/gan/</link>
+    <description>Recent content in GAN on Welcome from Ziheng Zhang!</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Ziheng Zhang</copyright>
-    <lastBuildDate>Tue, 18 Jul 2017 00:35:06 +0800</lastBuildDate>
-    <atom:link href="/tags/gan/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://my.aiyoggle.xyz/tags/gan/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>AwesomeGAN</title>
-      <link>http://allankevinrichie.github.io/post/awesomegan/</link>
-      <pubDate>Tue, 18 Jul 2017 00:35:06 +0800</pubDate>
+      <title>Photo-Realistic Facial Details Synthesis from Single Image</title>
+      <link>https://my.aiyoggle.xyz/publication/photo-arxiv/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://allankevinrichie.github.io/post/awesomegan/</guid>
-      <description>
+      <guid>https://my.aiyoggle.xyz/publication/photo-arxiv/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;p&gt;This post lists some awesome resource about GAN.&lt;/p&gt;
 
-&lt;h2 id=&#34;article-blog&#34;&gt;Article/Blog&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://blog.waya.ai/introduction-to-gans-a-boxing-match-b-w-neural-nets-b4e5319cc935&#34; target=&#34;_blank&#34;&gt;On the intuition behind deep learning &amp;amp; GANs &amp;ndash; towards a fundamental understanding&lt;/a&gt;&lt;/p&gt;
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
     

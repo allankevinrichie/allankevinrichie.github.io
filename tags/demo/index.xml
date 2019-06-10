@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Demo on My Tiny Site</title>
-    <link>http://allankevinrichie.github.io/tags/demo/</link>
-    <description>Recent content in Demo on My Tiny Site</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Demo on Welcome from Ziheng Zhang!</title>
+    <link>https://my.aiyoggle.xyz/tags/demo/</link>
+    <description>Recent content in Demo on Welcome from Ziheng Zhang!</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Ziheng Zhang</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/demo/" rel="self" type="application/rss+xml" />
+    
+	    <atom:link href="https://my.aiyoggle.xyz/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>External Project</title>
-      <link>http://allankevinrichie.github.io/project/example-external-project/</link>
+      <link>https://my.aiyoggle.xyz/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://allankevinrichie.github.io/project/example-external-project/</guid>
+      <guid>https://my.aiyoggle.xyz/project/external-project/</guid>
       <description></description>
     </item>
     
