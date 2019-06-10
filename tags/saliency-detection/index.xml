@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Saliency Detection on Welcome from Ziheng Zhang!</title>
-    <link>https://my.aiyoggle.xyz/tags/saliency-detection/</link>
+    <link>https://www.aiyoggle.me/tags/saliency-detection/</link>
     <description>Recent content in Saliency Detection on Welcome from Ziheng Zhang!</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://my.aiyoggle.xyz/tags/saliency-detection/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://www.aiyoggle.me/tags/saliency-detection/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Saliency Detection in 360° Videos</title>
-      <link>https://my.aiyoggle.xyz/publication/saliency-eccv18/</link>
+      <link>https://www.aiyoggle.me/publication/saliency-eccv18/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://my.aiyoggle.xyz/publication/saliency-eccv18/</guid>
+      <guid>https://www.aiyoggle.me/publication/saliency-eccv18/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

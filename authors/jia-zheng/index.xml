@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jia Zheng on Welcome from Ziheng Zhang!</title>
-    <link>https://my.aiyoggle.xyz/authors/jia-zheng/</link>
+    <link>https://www.aiyoggle.me/authors/jia-zheng/</link>
     <description>Recent content in Jia Zheng on Welcome from Ziheng Zhang!</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://my.aiyoggle.xyz/authors/jia-zheng/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://www.aiyoggle.me/authors/jia-zheng/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>PPGNet: Learning Point-Pair Graph for Line Segment Detection</title>
-      <link>https://my.aiyoggle.xyz/publication/ppgnet-cvpr19/</link>
+      <link>https://www.aiyoggle.me/publication/ppgnet-cvpr19/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://my.aiyoggle.xyz/publication/ppgnet-cvpr19/</guid>
+      <guid>https://www.aiyoggle.me/publication/ppgnet-cvpr19/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -37,10 +37,10 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>2nd place in WebVision Challenge on Image Classification Task (Top University Team)</title>
-      <link>https://my.aiyoggle.xyz/publication/webvision-cvpr17/</link>
+      <link>https://www.aiyoggle.me/publication/webvision-cvpr17/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://my.aiyoggle.xyz/publication/webvision-cvpr17/</guid>
+      <guid>https://www.aiyoggle.me/publication/webvision-cvpr17/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
