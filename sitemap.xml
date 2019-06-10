@@ -59,6 +59,8 @@
   <url>
     <loc>https://www.aiyoggle.me/publication/ppgnet-cvpr19/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -70,6 +72,8 @@
   <url>
     <loc>https://www.aiyoggle.me/publication/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -141,6 +145,8 @@
   <url>
     <loc>https://www.aiyoggle.me/publication/sem-dist-acmmm19/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -164,6 +170,8 @@
   <url>
     <loc>https://www.aiyoggle.me/publication/sunnet-bmvc19/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -205,6 +213,8 @@
   <url>
     <loc>https://www.aiyoggle.me/publication/photo-arxiv/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -216,16 +226,22 @@
   <url>
     <loc>https://www.aiyoggle.me/authors/admin/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.aiyoggle.me/post/jupyter/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.aiyoggle.me/post/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -255,6 +271,8 @@
   <url>
     <loc>https://www.aiyoggle.me/publication/gaze-aaai19/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -272,6 +290,8 @@
   <url>
     <loc>https://www.aiyoggle.me/publication/saliency-eccv18/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -283,6 +303,8 @@
   <url>
     <loc>https://www.aiyoggle.me/publication/webvision-cvpr17/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -318,11 +340,15 @@
   <url>
     <loc>https://www.aiyoggle.me/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.aiyoggle.me/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -340,6 +366,8 @@
   <url>
     <loc>https://www.aiyoggle.me/post/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -351,6 +379,8 @@
   <url>
     <loc>https://www.aiyoggle.me/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -367,6 +397,8 @@
   
   <url>
     <loc>https://www.aiyoggle.me/authors/aiyoggle/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -376,6 +408,8 @@
   
   <url>
     <loc>https://www.aiyoggle.me/talk/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
