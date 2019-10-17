@@ -4,10 +4,9 @@
     <title>Welcome from Ziheng Zhang!</title>
     <link>https://www.aiyoggle.me/authors/aiyoggle/</link>
     <description>Recent content on Welcome from Ziheng Zhang!</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
+    <generator>Hugo -- gohugo.io</generator>
     
-	    <atom:link href="https://www.aiyoggle.me/authors/aiyoggle/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.aiyoggle.me/authors/aiyoggle/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -16,8 +15,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.aiyoggle.me/authors/aiyoggle/</guid>
-      <description>&lt;p&gt;Ziheng Zhang is a master student at the School of Information Science and Techology, ShanghaiTech University. His research insterests include computer vision and deep learning. Before coming to ShanghaiTech University, he receives his BSc. Degree from Xidian University, Xi`An, China. He is currently looking for research assistant position (Jul.2019-Jan.2020) and doctoral program (Spring, 2020) in computer science.&lt;/p&gt;
-</description>
+      <description>Ziheng Zhang is a master student at the School of Information Science and Techology, ShanghaiTech University. His research insterests include computer vision and deep learning. Before coming to ShanghaiTech University, he receives his BSc. Degree from Xidian University, Xi`An, China. He is currently looking for research assistant position (Jul.2019-Jan.2020) and doctoral program (Spring, 2020) in computer science.</description>
     </item>
     
   </channel>

@@ -4,37 +4,18 @@
     <title>Tags on Welcome from Ziheng Zhang!</title>
     <link>https://www.aiyoggle.me/tags/</link>
     <description>Recent content in Tags on Welcome from Ziheng Zhang!</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://www.aiyoggle.me/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.aiyoggle.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>CNN</title>
-      <link>https://www.aiyoggle.me/tags/cnn/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aiyoggle.me/tags/cnn/</guid>
-      <description></description>
-    </item>
     
     <item>
-      <title>Graph</title>
-      <link>https://www.aiyoggle.me/tags/graph/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <title>Academic</title>
+      <link>https://www.aiyoggle.me/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://www.aiyoggle.me/tags/graph/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ling Segment Detection</title>
-      <link>https://www.aiyoggle.me/tags/ling-segment-detection/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aiyoggle.me/tags/ling-segment-detection/</guid>
+      <guid>https://www.aiyoggle.me/tags/academic/</guid>
       <description></description>
     </item>
     
@@ -48,74 +29,11 @@
     </item>
     
     <item>
-      <title>Human Parsing</title>
-      <link>https://www.aiyoggle.me/tags/human-parsing/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <title>Cnn</title>
+      <link>https://www.aiyoggle.me/tags/cnn/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.aiyoggle.me/tags/human-parsing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Human Pose Estimation</title>
-      <link>https://www.aiyoggle.me/tags/human-pose-estimation/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aiyoggle.me/tags/human-pose-estimation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Face Synthesis</title>
-      <link>https://www.aiyoggle.me/tags/face-synthesis/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aiyoggle.me/tags/face-synthesis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GAN</title>
-      <link>https://www.aiyoggle.me/tags/gan/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aiyoggle.me/tags/gan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gaze Estimation</title>
-      <link>https://www.aiyoggle.me/tags/gaze-estimation/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aiyoggle.me/tags/gaze-estimation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Saliency Detection</title>
-      <link>https://www.aiyoggle.me/tags/saliency-detection/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aiyoggle.me/tags/saliency-detection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spherical Convolution</title>
-      <link>https://www.aiyoggle.me/tags/spherical-convolution/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aiyoggle.me/tags/spherical-convolution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WebVision</title>
-      <link>https://www.aiyoggle.me/tags/webvision/</link>
-      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aiyoggle.me/tags/webvision/</guid>
+      <guid>https://www.aiyoggle.me/tags/cnn/</guid>
       <description></description>
     </item>
     
@@ -138,11 +56,74 @@
     </item>
     
     <item>
-      <title>Academic</title>
-      <link>https://www.aiyoggle.me/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Face Synthesis</title>
+      <link>https://www.aiyoggle.me/tags/face-synthesis/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.aiyoggle.me/tags/academic/</guid>
+      <guid>https://www.aiyoggle.me/tags/face-synthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gan</title>
+      <link>https://www.aiyoggle.me/tags/gan/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aiyoggle.me/tags/gan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaze Estimation</title>
+      <link>https://www.aiyoggle.me/tags/gaze-estimation/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aiyoggle.me/tags/gaze-estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph</title>
+      <link>https://www.aiyoggle.me/tags/graph/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aiyoggle.me/tags/graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human Parsing</title>
+      <link>https://www.aiyoggle.me/tags/human-parsing/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aiyoggle.me/tags/human-parsing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human Pose Estimation</title>
+      <link>https://www.aiyoggle.me/tags/human-pose-estimation/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aiyoggle.me/tags/human-pose-estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ling Segment Detection</title>
+      <link>https://www.aiyoggle.me/tags/ling-segment-detection/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aiyoggle.me/tags/ling-segment-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saliency Detection</title>
+      <link>https://www.aiyoggle.me/tags/saliency-detection/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aiyoggle.me/tags/saliency-detection/</guid>
       <description></description>
     </item>
     
@@ -152,6 +133,24 @@
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>https://www.aiyoggle.me/tags/source-themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spherical Convolution</title>
+      <link>https://www.aiyoggle.me/tags/spherical-convolution/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aiyoggle.me/tags/spherical-convolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Webvision</title>
+      <link>https://www.aiyoggle.me/tags/webvision/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aiyoggle.me/tags/webvision/</guid>
       <description></description>
     </item>
     

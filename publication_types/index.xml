@@ -4,11 +4,10 @@
     <title>Publication_types on Welcome from Ziheng Zhang!</title>
     <link>https://www.aiyoggle.me/publication_types/</link>
     <description>Recent content in Publication_types on Welcome from Ziheng Zhang!</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
+    <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://www.aiyoggle.me/publication_types/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.aiyoggle.me/publication_types/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,6 +16,15 @@
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.aiyoggle.me/publication_types/1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2</title>
+      <link>https://www.aiyoggle.me/publication_types/2/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aiyoggle.me/publication_types/2/</guid>
       <description></description>
     </item>
     
@@ -35,15 +43,6 @@
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.aiyoggle.me/publication_types/4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2</title>
-      <link>https://www.aiyoggle.me/publication_types/2/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aiyoggle.me/publication_types/2/</guid>
       <description></description>
     </item>
     

@@ -4,12 +4,57 @@
     <title>Authors on Welcome from Ziheng Zhang!</title>
     <link>https://www.aiyoggle.me/authors/</link>
     <description>Recent content in Authors on Welcome from Ziheng Zhang!</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://www.aiyoggle.me/authors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.aiyoggle.me/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://www.aiyoggle.me/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aiyoggle.me/authors/admin/</guid>
+      <description>Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.aiyoggle.me/authors/aiyoggle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aiyoggle.me/authors/aiyoggle/</guid>
+      <description>Ziheng Zhang is a master student at the School of Information Science and Techology, ShanghaiTech University. His research insterests include computer vision and deep learning. Before coming to ShanghaiTech University, he receives his BSc. Degree from Xidian University, Xi`An, China. He is currently looking for research assistant position (Jul.2019-Jan.2020) and doctoral program (Spring, 2020) in computer science.</description>
+    </item>
+    
+    <item>
+      <title>Anpei Chen</title>
+      <link>https://www.aiyoggle.me/authors/anpei-chen/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aiyoggle.me/authors/anpei-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dongze Lian</title>
+      <link>https://www.aiyoggle.me/authors/dongze-lian/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aiyoggle.me/authors/dongze-lian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guli Zhang</title>
+      <link>https://www.aiyoggle.me/authors/guli-zhang/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aiyoggle.me/authors/guli-zhang/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Jia Zheng</title>
@@ -17,6 +62,15 @@
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.aiyoggle.me/authors/jia-zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jingyi Yu</title>
+      <link>https://www.aiyoggle.me/authors/jingyi-yu/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aiyoggle.me/authors/jingyi-yu/</guid>
       <description></description>
     </item>
     
@@ -30,6 +84,15 @@
     </item>
     
     <item>
+      <title>Kenny Mitchell</title>
+      <link>https://www.aiyoggle.me/authors/kenny-mitchell/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aiyoggle.me/authors/kenny-mitchell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Kun Huang</title>
       <link>https://www.aiyoggle.me/authors/kun-huang/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
@@ -39,11 +102,47 @@
     </item>
     
     <item>
+      <title>Lina Hu</title>
+      <link>https://www.aiyoggle.me/authors/lina-hu/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aiyoggle.me/authors/lina-hu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ling Xie</title>
+      <link>https://www.aiyoggle.me/authors/ling-xie/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aiyoggle.me/authors/ling-xie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minye Wu</title>
+      <link>https://www.aiyoggle.me/authors/minye-wu/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aiyoggle.me/authors/minye-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Ning Bi</title>
       <link>https://www.aiyoggle.me/authors/ning-bi/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.aiyoggle.me/authors/ning-bi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>https://www.aiyoggle.me/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aiyoggle.me/authors/robert-ford/</guid>
       <description></description>
     </item>
     
@@ -66,60 +165,6 @@
     </item>
     
     <item>
-      <title>Yanyu Xu</title>
-      <link>https://www.aiyoggle.me/authors/yanyu-xu/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aiyoggle.me/authors/yanyu-xu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zhengxin Li*</title>
-      <link>https://www.aiyoggle.me/authors/zhengxin-li/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aiyoggle.me/authors/zhengxin-li/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ziheng Zhang</title>
-      <link>https://www.aiyoggle.me/authors/ziheng-zhang/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aiyoggle.me/authors/ziheng-zhang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anpei Chen</title>
-      <link>https://www.aiyoggle.me/authors/anpei-chen/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aiyoggle.me/authors/anpei-chen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jingyi Yu</title>
-      <link>https://www.aiyoggle.me/authors/jingyi-yu/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aiyoggle.me/authors/jingyi-yu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ling Xie</title>
-      <link>https://www.aiyoggle.me/authors/ling-xie/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aiyoggle.me/authors/ling-xie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Wen Liu</title>
       <link>https://www.aiyoggle.me/authors/wen-liu/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
@@ -129,86 +174,11 @@
     </item>
     
     <item>
-      <title>Zhixin Piao</title>
-      <link>https://www.aiyoggle.me/authors/zhixin-piao/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <title>Yanyu Xu</title>
+      <link>https://www.aiyoggle.me/authors/yanyu-xu/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.aiyoggle.me/authors/zhixin-piao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Guli Zhang</title>
-      <link>https://www.aiyoggle.me/authors/guli-zhang/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aiyoggle.me/authors/guli-zhang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kenny Mitchell</title>
-      <link>https://www.aiyoggle.me/authors/kenny-mitchell/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aiyoggle.me/authors/kenny-mitchell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zhang Chen</title>
-      <link>https://www.aiyoggle.me/authors/zhang-chen/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aiyoggle.me/authors/zhang-chen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://www.aiyoggle.me/authors/admin/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aiyoggle.me/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Dongze Lian*</title>
-      <link>https://www.aiyoggle.me/authors/dongze-lian/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aiyoggle.me/authors/dongze-lian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lina Hu</title>
-      <link>https://www.aiyoggle.me/authors/lina-hu/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aiyoggle.me/authors/lina-hu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Minye Wu</title>
-      <link>https://www.aiyoggle.me/authors/minye-wu/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aiyoggle.me/authors/minye-wu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zechao Li</title>
-      <link>https://www.aiyoggle.me/authors/zechao-li/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aiyoggle.me/authors/zechao-li/</guid>
+      <guid>https://www.aiyoggle.me/authors/yanyu-xu/</guid>
       <description></description>
     </item>
     
@@ -222,22 +192,48 @@
     </item>
     
     <item>
-      <title>Robert Ford</title>
-      <link>https://www.aiyoggle.me/authors/robert-ford/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <title>Zechao Li</title>
+      <link>https://www.aiyoggle.me/authors/zechao-li/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.aiyoggle.me/authors/robert-ford/</guid>
+      <guid>https://www.aiyoggle.me/authors/zechao-li/</guid>
       <description></description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://www.aiyoggle.me/authors/aiyoggle/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Zhang Chen</title>
+      <link>https://www.aiyoggle.me/authors/zhang-chen/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.aiyoggle.me/authors/aiyoggle/</guid>
-      <description>&lt;p&gt;Ziheng Zhang is a master student at the School of Information Science and Techology, ShanghaiTech University. His research insterests include computer vision and deep learning. Before coming to ShanghaiTech University, he receives his BSc. Degree from Xidian University, Xi`An, China. He is currently looking for research assistant position (Jul.2019-Jan.2020) and doctoral program (Spring, 2020) in computer science.&lt;/p&gt;
-</description>
+      <guid>https://www.aiyoggle.me/authors/zhang-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhengxin Li</title>
+      <link>https://www.aiyoggle.me/authors/zhengxin-li/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aiyoggle.me/authors/zhengxin-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhixin Piao</title>
+      <link>https://www.aiyoggle.me/authors/zhixin-piao/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aiyoggle.me/authors/zhixin-piao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ziheng Zhang</title>
+      <link>https://www.aiyoggle.me/authors/ziheng-zhang/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aiyoggle.me/authors/ziheng-zhang/</guid>
+      <description></description>
     </item>
     
   </channel>
