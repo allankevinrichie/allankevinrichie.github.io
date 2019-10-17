@@ -1,10 +1,157 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.aiyoggle.me/publication_types/1/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/authors/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/tags/cnn/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/tags/graph/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/authors/jia-zheng/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/authors/jinlei-wang/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/authors/kun-huang/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/tags/ling-segment-detection/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/authors/ning-bi/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.aiyoggle.me/publication/ppgnet-cvpr19/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/publication_types/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/publication/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/authors/shenghua-gao/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/tags/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/authors/weixin-luo/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/authors/yanyu-xu/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/authors/zhengxin-li/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/authors/ziheng-zhang/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/tags/amodal-segmentation/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/authors/anpei-chen/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/authors/jingyi-yu/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -17,8 +164,78 @@
   </url>
   
   <url>
+    <loc>https://www.aiyoggle.me/authors/ling-xie/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/publication_types/3/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/tags/human-parsing/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/tags/human-pose-estimation/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.aiyoggle.me/publication/sunnet-bmvc19/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/authors/wen-liu/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/authors/zhixin-piao/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/tags/face-synthesis/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/tags/gan/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/authors/guli-zhang/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/authors/kenny-mitchell/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -31,8 +248,57 @@
   </url>
   
   <url>
+    <loc>https://www.aiyoggle.me/authors/zhang-chen/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/authors/admin/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.aiyoggle.me/post/jupyter/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/post/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/authors/dongze-lian/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/tags/gaze-estimation/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/authors/lina-hu/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/authors/minye-wu/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -45,7 +311,28 @@
   </url>
   
   <url>
+    <loc>https://www.aiyoggle.me/authors/zechao-li/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/tags/saliency-detection/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.aiyoggle.me/publication/saliency-eccv18/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/tags/spherical-convolution/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -54,6 +341,41 @@
   <url>
     <loc>https://www.aiyoggle.me/publication/webvision-cvpr17/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/publication_types/4/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/tags/webvision/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/authors/yi-ma/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/tags/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/tags/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -73,8 +395,29 @@
   </url>
   
   <url>
+    <loc>https://www.aiyoggle.me/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/tags/academic/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.aiyoggle.me/post/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/publication_types/2/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -87,8 +430,15 @@
   </url>
   
   <url>
-    <loc>https://www.aiyoggle.me/authors/admin/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <loc>https://www.aiyoggle.me/authors/robert-ford/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.aiyoggle.me/tags/source-themes/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -100,238 +450,7 @@
   </url>
   
   <url>
-    <loc>https://www.aiyoggle.me/publication_types/1/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/publication_types/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/publication_types/3/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/publication_types/4/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/tags/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/tags/amodal-segmentation/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/authors/anpei-chen/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/authors/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.aiyoggle.me/categories/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/tags/cnn/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/tags/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/tags/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/authors/dongze-lian/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/tags/face-synthesis/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/tags/gan/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/tags/gaze-estimation/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/tags/graph/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/authors/guli-zhang/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/tags/human-parsing/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/tags/human-pose-estimation/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/authors/jia-zheng/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/authors/jingyi-yu/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/authors/jinlei-wang/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/authors/kenny-mitchell/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/authors/kun-huang/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/authors/lina-hu/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/tags/ling-segment-detection/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/authors/ling-xie/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/authors/minye-wu/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/authors/ning-bi/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/post/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/publication_types/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/publication/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -340,125 +459,6 @@
     <loc>https://www.aiyoggle.me/talk/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/authors/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/tags/saliency-detection/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/authors/shenghua-gao/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/tags/source-themes/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/tags/spherical-convolution/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/tags/webvision/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/authors/weixin-luo/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/authors/wen-liu/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/authors/yanyu-xu/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/authors/yi-ma/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/authors/zechao-li/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/authors/zhang-chen/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/authors/zhengxin-li/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/authors/zhixin-piao/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.aiyoggle.me/authors/ziheng-zhang/</loc>
-    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
   </url>
   
 </urlset>

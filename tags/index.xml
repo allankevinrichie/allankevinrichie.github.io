@@ -4,81 +4,19 @@
     <title>Tags on Welcome from Ziheng Zhang!</title>
     <link>https://www.aiyoggle.me/tags/</link>
     <description>Recent content in Tags on Welcome from Ziheng Zhang!</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.aiyoggle.me/tags/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://www.aiyoggle.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Academic</title>
-      <link>https://www.aiyoggle.me/tags/academic/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aiyoggle.me/tags/academic/</guid>
-      <description></description>
-    </item>
     
     <item>
-      <title>Amodal Segmentation</title>
-      <link>https://www.aiyoggle.me/tags/amodal-segmentation/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aiyoggle.me/tags/amodal-segmentation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cnn</title>
+      <title>CNN</title>
       <link>https://www.aiyoggle.me/tags/cnn/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.aiyoggle.me/tags/cnn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>https://www.aiyoggle.me/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aiyoggle.me/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Demo</title>
-      <link>https://www.aiyoggle.me/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aiyoggle.me/tags/demo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Face Synthesis</title>
-      <link>https://www.aiyoggle.me/tags/face-synthesis/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aiyoggle.me/tags/face-synthesis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gan</title>
-      <link>https://www.aiyoggle.me/tags/gan/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aiyoggle.me/tags/gan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gaze Estimation</title>
-      <link>https://www.aiyoggle.me/tags/gaze-estimation/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aiyoggle.me/tags/gaze-estimation/</guid>
       <description></description>
     </item>
     
@@ -88,6 +26,24 @@
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.aiyoggle.me/tags/graph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ling Segment Detection</title>
+      <link>https://www.aiyoggle.me/tags/ling-segment-detection/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aiyoggle.me/tags/ling-segment-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amodal Segmentation</title>
+      <link>https://www.aiyoggle.me/tags/amodal-segmentation/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aiyoggle.me/tags/amodal-segmentation/</guid>
       <description></description>
     </item>
     
@@ -110,11 +66,29 @@
     </item>
     
     <item>
-      <title>Ling Segment Detection</title>
-      <link>https://www.aiyoggle.me/tags/ling-segment-detection/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <title>Face Synthesis</title>
+      <link>https://www.aiyoggle.me/tags/face-synthesis/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.aiyoggle.me/tags/ling-segment-detection/</guid>
+      <guid>https://www.aiyoggle.me/tags/face-synthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GAN</title>
+      <link>https://www.aiyoggle.me/tags/gan/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aiyoggle.me/tags/gan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaze Estimation</title>
+      <link>https://www.aiyoggle.me/tags/gaze-estimation/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aiyoggle.me/tags/gaze-estimation/</guid>
       <description></description>
     </item>
     
@@ -128,15 +102,6 @@
     </item>
     
     <item>
-      <title>Source Themes</title>
-      <link>https://www.aiyoggle.me/tags/source-themes/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aiyoggle.me/tags/source-themes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Spherical Convolution</title>
       <link>https://www.aiyoggle.me/tags/spherical-convolution/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
@@ -146,11 +111,47 @@
     </item>
     
     <item>
-      <title>Webvision</title>
+      <title>WebVision</title>
       <link>https://www.aiyoggle.me/tags/webvision/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://www.aiyoggle.me/tags/webvision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://www.aiyoggle.me/tags/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aiyoggle.me/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>https://www.aiyoggle.me/tags/demo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aiyoggle.me/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>https://www.aiyoggle.me/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aiyoggle.me/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Source Themes</title>
+      <link>https://www.aiyoggle.me/tags/source-themes/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aiyoggle.me/tags/source-themes/</guid>
       <description></description>
     </item>
     

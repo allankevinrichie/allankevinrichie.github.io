@@ -4,10 +4,11 @@
     <title>Graph on Welcome from Ziheng Zhang!</title>
     <link>https://www.aiyoggle.me/tags/graph/</link>
     <description>Recent content in Graph on Welcome from Ziheng Zhang!</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
     <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.aiyoggle.me/tags/graph/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://www.aiyoggle.me/tags/graph/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -16,7 +17,22 @@
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.aiyoggle.me/publication/ppgnet-cvpr19/</guid>
-      <description></description>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
     </item>
     
   </channel>

@@ -4,124 +4,56 @@
     <title>Welcome from Ziheng Zhang!</title>
     <link>https://www.aiyoggle.me/</link>
     <description>Recent content on Welcome from Ziheng Zhang!</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
     <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.aiyoggle.me/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://www.aiyoggle.me/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>PPGNet: Learning Point-Pair Graph for Line Segment Detection</title>
-      <link>https://www.aiyoggle.me/publication/ppgnet-cvpr19/</link>
+      <title>Publications</title>
+      <link>https://www.aiyoggle.me/publication/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.aiyoggle.me/publication/ppgnet-cvpr19/</guid>
+      <guid>https://www.aiyoggle.me/publication/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Learning Semantics-aware Distance Map with Semantics Layering Network for Amodal Instance Segmentation</title>
-      <link>https://www.aiyoggle.me/publication/sem-dist-acmmm19/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aiyoggle.me/publication/sem-dist-acmmm19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SUNNet: A Novel Framework for Simultaneous Human Parsing and Pose Estimation</title>
-      <link>https://www.aiyoggle.me/publication/sunnet-bmvc19/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aiyoggle.me/publication/sunnet-bmvc19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Photo-Realistic Facial Details Synthesis from Single Image</title>
-      <link>https://www.aiyoggle.me/publication/photo-arxiv/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aiyoggle.me/publication/photo-arxiv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://www.aiyoggle.me/post/jupyter/</link>
+      <title>Posts</title>
+      <link>https://www.aiyoggle.me/post/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.aiyoggle.me/post/jupyter/</guid>
-      <description>from IPython.core.display import Image Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)  print(&amp;quot;Welcome to Academic!&amp;quot;)  Welcome to Academic!  Install Python and Jupyter Install Anaconda which includes Python 3 and Jupyter notebook.
-Otherwise, for advanced users, install Jupyter notebook with pip3 install jupyter.
-Create a new blog post as usual Run the following commands in your Terminal, substituting &amp;lt;MY_WEBSITE_FOLDER&amp;gt; and my-post with the file path to your Academic website folder and a name for your blog post (without spaces), respectively:</description>
-    </item>
-    
-    <item>
-      <title>RGBD Based Gaze Estimation via Multi-task CNN</title>
-      <link>https://www.aiyoggle.me/publication/gaze-aaai19/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aiyoggle.me/publication/gaze-aaai19/</guid>
+      <guid>https://www.aiyoggle.me/post/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Saliency Detection in 360° Videos</title>
-      <link>https://www.aiyoggle.me/publication/saliency-eccv18/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aiyoggle.me/publication/saliency-eccv18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2nd place in WebVision Challenge on Image Classification Task (Top University Team)</title>
-      <link>https://www.aiyoggle.me/publication/webvision-cvpr17/</link>
-      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aiyoggle.me/publication/webvision-cvpr17/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>https://www.aiyoggle.me/project/external-project/</link>
+      <title>Projects</title>
+      <link>https://www.aiyoggle.me/project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://www.aiyoggle.me/project/external-project/</guid>
+      <guid>https://www.aiyoggle.me/project/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Internal Project</title>
-      <link>https://www.aiyoggle.me/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.aiyoggle.me/project/internal-project/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
+      <guid></guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Academic: the website builder for Hugo</title>
-      <link>https://www.aiyoggle.me/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://www.aiyoggle.me/talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.aiyoggle.me/post/getting-started/</guid>
-      <description>Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 widgets, themes, and language packs included!
-Check out the latest demo of what you&amp;rsquo;ll get in less than 10 minutes, or view the showcase of personal, project, and business sites.
- Setup Academic Get Started View the documentation Ask a question Request a feature or report a bug Updating?</description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>https://www.aiyoggle.me/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.aiyoggle.me/publication/journal-article/</guid>
-      <description>{{% alert note %}} Click the Cite button above to demo the feature to enable visitors to import publication metadata into their reference management software. {{% /alert %}}
-{{% alert note %}} Click the Slides button above to demo Academic&amp;rsquo;s Markdown slides feature. {{% /alert %}}
-Supplementary notes can be added here, including code and math.</description>
+      <guid>https://www.aiyoggle.me/talk/</guid>
+      <description></description>
     </item>
     
   </channel>
